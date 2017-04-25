@@ -1,8 +1,9 @@
-public class Main {
-	public static int numbers;
+package numbers;
 
-	public static void main(String[] args) {
-		numbers = 10;
-    System.out.println("Numbers is equal to " + numbers);
+public class Numbers	 {
+	public static int numbers = 20;
+
+	public int getNumbers() {
+		return numbers
 	}
 }
