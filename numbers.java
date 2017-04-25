@@ -1,5 +1,3 @@
-package numbers;
-
 public class Numbers	 {
 	public static int numbers = 20;
 
