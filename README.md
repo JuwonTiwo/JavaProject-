@@ -8,7 +8,7 @@ We created this project to showcase our skills and what we have learnt in the la
 
 ## Setting up the project
 
-### Prerequisite
+### Prerequisites
 
 1. [JDK 1.7 +](http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html)
 2. [Tomkat](https://tomcat.apache.org/)
@@ -18,8 +18,9 @@ We created this project to showcase our skills and what we have learnt in the la
 ### Setting up Java Development Kit
 This step involves downloading an implementation of the Java Software Development Kit (SDK) and setting up the PATH environment variable appropriately.
 
-You can download SDK from Oracle's Java site − Java SE Downloads.
-Once you download your Java implementation, follow the given instructions to install and configure the setup. Finally set the PATH and JAVA_HOME environment variables to refer to the directory that contains java and javac, typically java_install_dir/bin and java_install_dir respectively.
+* You can download SDK from Oracle's Java site − Java SE Downloads.
+* Once you download your Java implementation, follow the given instructions to install and configure the setup. 
+* Finally set the PATH and JAVA_HOME environment variables to refer to the directory that contains java and javac, typically java_install_dir/bin and java_install_dir respectively.
 
 If you are running Windows and install the SDK in C:\jdk1.5.0_20, you need to add the following line in your C:\autoexec.bat file.
 
