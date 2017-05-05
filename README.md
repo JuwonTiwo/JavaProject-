@@ -15,7 +15,7 @@ We created this project to showcase our skills and what we have learnt in the la
 3. [Java IDE](http://www.eclipse.org) (Or one of your preference)
 4. Terminal or Console
 
-###Setting up Java Development Kit
+### Setting up Java Development Kit
 This step involves downloading an implementation of the Java Software Development Kit (SDK) and setting up the PATH environment variable appropriately.
 
 You can download SDK from Oracle's Java site − Java SE Downloads.
