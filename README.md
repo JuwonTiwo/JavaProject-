@@ -1,5 +1,3 @@
-# JavaProject
-
 # Sky Basket (Educational project)
 
 ## About the Project 
