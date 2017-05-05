@@ -3,8 +3,11 @@
 # Sky Basket (Educational project)
 
 ##About the Project 
+
 We created this project to showcase our skills and what we have learnt in the last couple of weeks and this is a good way to share the project so you can play around with it or make changes.
+
 ##Setting up the project
+
 ###Prerequisites
 1. [JDK 1.7 +] (http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html)
 2. [Tomkat](https://tomcat.apache.org/)
